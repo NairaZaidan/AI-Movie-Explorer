@@ -39,8 +39,6 @@ get a formatted AI recommendation on the right. Shareable via a public link with
 10. [ML Models](#ml-models)
 11. [RAG Pipeline](#rag-pipeline)
 12. [Streamlit App Reference](#streamlit-app-reference)
-13. [Environment Variables](#environment-variables)
-14. [Troubleshooting](#troubleshooting)
 
 ---
 
